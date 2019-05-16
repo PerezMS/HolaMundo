@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class GitClase extends AppCompatActivity {
 //comentario
-//comentario 2    
+//comentario 2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
